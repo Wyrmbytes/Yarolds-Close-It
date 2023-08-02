@@ -1,5 +1,3 @@
-
-
     // ==UserScript==
     // @name           Yarolds Close It
     // @namespace      Yarolds
