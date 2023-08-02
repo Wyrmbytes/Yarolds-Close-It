@@ -364,6 +364,7 @@
     // @include        https://virtuadopt.com/feed/*
     // @include        https://monzoo.net/myzoo.php?pseudo=*
     // @include        https://mirrorwood.com/
+    // @include        https://flowergame.net/view/*
     // ==/UserScript==
      
     function randomNumber( min, max ) {
