@@ -85,8 +85,8 @@
     // @include        http://www.zooreka.com/*
     // @include        http://www.thelostrunes.com/*
     // @include        http://www.vdexproject.net/p/*/*
-    // @include        http://flowergame.net/users/login
-    // @include        http://flowergame.net/view/*
+    // @include        https://flowergame.net/users/login
+    // @include        https://flowergame.net/view/*
     // @include        http://www.worldofumbria.net/view.php
     // @include        http://www.outcraft.com/login.php
     // @include        http://www.thedarkageofwythia.com/linkconfigure.php?link=*
@@ -315,7 +315,7 @@
     // @include        http://prisonwars.pl/458272/
     // @include        http://www.valleyofunicorns.com/home
     // @include        https://www.miniconomy.com/
-    // @include        http://flowergame.net/greenhouse/*
+    // @include        https://flowergame.net/greenhouse/*
     // @include        http://www.giveadamn.co.uk/give/*
     // @include        http://www.owlforest.kr/forest/levelup/click/*
     // @include        http://www.monzoo.net/myzoo.php?pseudo=*
@@ -326,7 +326,7 @@
     // @include        http://www.poliwager.net/adopt/levelup.php?id=*
     // @include        http://horus.nemexia.com/
     // @include        http://www.darkthrone.com/recruiter/outside/*
-    // @include        http://flowergame.net/flowers/garden/*
+    // @include        https://flowergame.net/flowers/garden/*
     // @include        http://www.mamafia.fr/*
     // @include        http://silencieux.mafiacontrol.com/follow/*
     // @include        https://www.kofk.de/*
@@ -364,7 +364,6 @@
     // @include        https://virtuadopt.com/feed/*
     // @include        https://monzoo.net/myzoo.php?pseudo=*
     // @include        https://mirrorwood.com/
-    // @include        https://flowergame.net/view/*
     // ==/UserScript==
      
     function randomNumber( min, max ) {
