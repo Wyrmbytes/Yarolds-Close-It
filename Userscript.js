@@ -2,7 +2,7 @@
     // @name           Yarolds Close It V2
     // @namespace      Yarolds
     // @description    Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds
-    // @version        1.0.0
+    // @version        1.0.1
     // @copyright      2012+
     // @homepage	     http://swle.yarold.eu
     // @require        http://code.jquery.com/jquery-1.12.4.min.js
