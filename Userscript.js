@@ -360,6 +360,7 @@
     // @include        https://www.virtuadopt.com/undefined
     // @include        http://www.valleyofunicorns.com/login
     // @include        https://fallentitans.com/*
+    // @include        https://finaloutpost.net/view/*
     // ==/UserScript==
      
     function randomNumber( min, max ) {
