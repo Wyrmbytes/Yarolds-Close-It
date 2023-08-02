@@ -1,5 +1,5 @@
     // ==UserScript==
-    // @name           Yarolds Close It
+    // @name           Yarolds Close It V2
     // @namespace      Yarolds
     // @description    Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds
     // @version        5.1.6
@@ -361,6 +361,9 @@
     // @include        http://www.valleyofunicorns.com/login
     // @include        https://fallentitans.com/*
     // @include        https://finaloutpost.net/view/*
+    // @include        https://virtuadopt.com/feed/*
+    // @include        https://monzoo.net/myzoo.php?pseudo=*
+    // @include        https://mirrorwood.com/
     // ==/UserScript==
      
     function randomNumber( min, max ) {
