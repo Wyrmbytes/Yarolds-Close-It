@@ -2,7 +2,7 @@
     // @name           Yarolds Close It V2
     // @namespace      Yarolds
     // @description    Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds
-    // @version        1.0.2
+    // @version        1.0.3
     // @copyright      2012+
     // @homepage	     http://swle.yarold.eu
     // @require        http://code.jquery.com/jquery-1.12.4.min.js
@@ -209,7 +209,7 @@
     // @include        http://pokeheroes.com/interact.php?action=warm*
     // @include        http://pokeheroes.com/interact?action=warm&id=*
     // @include        http://pokeheroes.com/interact?action=train&id=*
-    // @include        https://www.eggcave.com/@*
+    // @include        http://www.eggcave.com/@*
     // @include        http://www.valleyofunicorns.com/Horse/*
     // @include        https://www.carddex-ptc.de/TeamPage.php?id=*
     // @include        http://taleofostlea.net/login
@@ -224,7 +224,6 @@
     // @include        https://magistream.com/user/*
     // @include        https://www.virtuadopt.com/feed.php?id=*
     // @include        https://www.eggcave.com/egg/*
-    // @include        https://eggcave.com/egg/*
     // @include        https://twitter.com/Virtuadopt
     // @include        https://gothicat-world.com/
     // @include        https://www.xanje.com/pet/*
@@ -365,6 +364,8 @@
     // @include        https://monzoo.net/myzoo.php?pseudo=*
     // @include        https://mirrorwood.com/
     // @include        https://leetles.com/in/*
+    // @include        https://www.samuraiwar.org/refer?*
+    // @include        https://eggcave.com/@*
     // ==/UserScript==
      
     function randomNumber( min, max ) {
