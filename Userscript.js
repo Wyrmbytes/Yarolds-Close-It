@@ -2,7 +2,7 @@
     // @name           Yarolds Close It V2
     // @namespace      Yarolds
     // @description    Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds
-    // @version        1.0.4
+    // @version        1.0.5
     // @copyright      2012+
     // @homepage	     http://swle.yarold.eu
     // @require        http://code.jquery.com/jquery-1.12.4.min.js
@@ -366,6 +366,7 @@
     // @include        https://leetles.com/in/*
     // @include        https://www.samuraiwar.org/refer?*
     // @include        https://eggcave.com/@*
+    // @include        https://www.eggcave.com/egg/*
     // ==/UserScript==
      
     function randomNumber( min, max ) {
