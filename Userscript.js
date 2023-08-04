@@ -366,6 +366,7 @@
     // @include        https://mirrorwood.com/
     // @include        https://leetles.com/in/*
     // @include        https://www.samuraiwar.org/refer?*
+    // @include        https://eggcave.com/@*
     // ==/UserScript==
      
     function randomNumber( min, max ) {
