@@ -367,7 +367,7 @@
     // @include        https://leetles.com/in/*
     // @include        https://www.samuraiwar.org/refer?*
     // @include        https://eggcave.com/@*
-    // @include        https://dragcave.net/image/
+    // @include        https://dragcave.net/image/*
     // @exclude https://eggcave.com/@*/shop
     // ==/UserScript==
      
