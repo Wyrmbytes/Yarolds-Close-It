@@ -6,7 +6,8 @@
     // @copyright      2012+
     // @homepage	     http://swle.yarold.eu
     // @require        http://code.jquery.com/jquery-1.12.4.min.js
-// @include        http://fantasyadopts.mysidiahost.com/levelup/warmegg/*
+// @include        http://fantasyadopts.mysidiahost.com/levelup/*
+// @include        https://fantasyadopts.mysidiahost.com/petprofile/view/*
 // @include        http://magistream.com/creature/*
 // @include        http://magistream.com/family/*
 // @include        https://magistream.com/creature/*
