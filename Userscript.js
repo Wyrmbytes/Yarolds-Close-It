@@ -2,12 +2,13 @@
     // @name           Yarolds Close It V2
     // @namespace      Yarolds
     // @description    Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds
-    // @version        1.1.4
+    // @version        1.1.5
     // @copyright      2012+
     // @homepage	     http://swle.yarold.eu
     // @require        http://code.jquery.com/jquery-1.12.4.min.js
 // @include        https://fantasyadopts.mysidiahost.com/levelup/click/*
 // @include        https://fantasyadopts.mysidiahost.com/petprofile/view/*
+// @include        https://fantasyadopts.mysidiahost.com/croplevelup/click/*
 // @include        http://magistream.com/creature/*
 // @include        http://magistream.com/family/*
 // @include        https://magistream.com/creature/*
