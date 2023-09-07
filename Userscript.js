@@ -2,7 +2,7 @@
     // @name           Yarolds Close It V2
     // @namespace      Yarolds
     // @description    Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds
-    // @version        1.1.5
+    // @version        1.1.6
     // @copyright      2012+
     // @homepage	     http://swle.yarold.eu
     // @require        http://code.jquery.com/jquery-1.12.4.min.js
@@ -201,7 +201,7 @@
 // @include        http://www.felkyocreatures.com/levelup.php?id=*
 // @include        http://forestofmirrors.x10.mx/levelup/click/*
 // @include        http://www.mirrorwood.com/view/*
-// @include        http://www.clickcritters.com/adoptables.php?act=doRareCandy&id*
+// @include        https://www.clickcritters.com/adoptables.php?act=doRareCandy&id*
 // @include        http://www.forgottenrealm.us/creature/*
 // @include        http://www.pokeheroes.com/interact.php?id=*&action=direct
 // @include        http://www.gothicat-world.com/*
@@ -370,6 +370,7 @@
     // @include        https://eggcave.com/@*
     // @include        https://dragcave.net/image/*
     // @include        https://formula9.ddns.net/u/*
+    // @include        https://www.clickcritters.com/feed/*
     // @exclude https://eggcave.com/@*/shop*
     // ==/UserScript==
      
