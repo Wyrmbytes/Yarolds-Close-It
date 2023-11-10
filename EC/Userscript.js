@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Feeder - Eggcave
-// @namespace   Violentmonkey Scripts
+// @namespace   Eggcave Script
 // @include     https://eggcave.com/egg/*
 // @include     https://eggcave.com/@*
 // @exclude     https://eggcave.com/@*/shop*
