@@ -2,7 +2,7 @@
     // @name           Yarolds Close It V2
     // @namespace      Yarolds
     // @description    Closes Non Action links at Yarolds, and does Actions then Closes Action links at Yarolds
-    // @version        1.1.6
+    // @version        1.1.7
     // @copyright      2012+
     // @homepage	     http://swle.yarold.eu
     // @require        http://code.jquery.com/jquery-1.12.4.min.js
@@ -205,6 +205,7 @@
 // @include        http://www.forgottenrealm.us/creature/*
 // @include        http://www.pokeheroes.com/interact.php?id=*&action=direct
 // @include        http://www.gothicat-world.com/*
+// @include        https://www.gothicat-world.com/*
 // @include        http://www.grophland.com/get_item.php?id=*
 // @include        http://www.pokeheroes.com/interact.php?action=feed*
 // @include        http://pokeheroes.com/interact.php?id=*&action=direct*
